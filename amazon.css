@@ -123,6 +123,7 @@ span{
 .panel-option p{
     display: inline;
     margin-left: 10px;
+    corsor:pointer;
     
 }
 .panel-option {
@@ -131,6 +132,7 @@ span{
 }
 .panel-deals{
     font-weight: 0.9rem;
+    corsor:pointer;
 }
 
 /* hero section*/
